@@ -1,6 +1,6 @@
 # Predicting Bug Severity with ML
 
-This repository contains the code, documentation, and analysis for the **"Predicting Bug Severity with Machine Learning"** project, developed as part of the **CMachine Learning** course at Sabanci University. Our team participated in an in-class Kaggle competition and secured first place out of 42 teams by developing an effective machine learning model to predict the severity of software bugs based on their textual descriptions.
+This repository contains the code, documentation, and analysis for the **"Predicting Bug Severity with Machine Learning"** project, developed as part of the **Machine Learning** course at Sabanci University. Our team participated in an in-class Kaggle competition and secured first place out of 42 teams by developing an effective machine learning model to predict the severity of software bugs based on their textual descriptions.
 
 ## Project Overview
 
