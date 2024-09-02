@@ -35,6 +35,10 @@ To explore and run the project:
 - **/results**: Contains the analysis reports and visualizations of the model performance.
 - **README.md**: Overview of the project and instructions for running the code.
 
+## Kaggle Competition
+
+Our model achieved first place in the **In-class Kaggle competition**. You can view the competition leaderboard and details [here](https://www.kaggle.com/competitions/cs-412-in-class-kaggle-competition/leaderboard).
+
 ## Results
 
 Our Bagging Random Forest model achieved the highest macro precision in the Kaggle competition, outperforming 41 other teams. The model was particularly effective in balancing bias and variance, making it robust against overfitting while maintaining strong performance across all severity classes.
